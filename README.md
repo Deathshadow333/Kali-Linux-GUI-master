@@ -4,7 +4,7 @@ Customizable Kali Linux GUI website with a working customizable terminal without
 
 ## Preview
 
-You can preview a live demo [here](https://bitoffabyte.github.io/Kali-Linux-GUI/)
+You can preview a live demo [here]()
 
 ## Technical details
 
@@ -38,4 +38,4 @@ IF you are deploying this website please use an obfuscator to encrypt the js fil
 
 ## Author
 
--   **R Narayan** https://github.com/bitoffabyte
+-   **G Sharan Raghav** https://github.com/Deathshadow333
