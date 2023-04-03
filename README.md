@@ -4,7 +4,7 @@ Customizable Kali Linux GUI website with a working customizable terminal without
 
 ## Preview
 
-You can preview a live demo [here] (https://deathshadow333.github.io/Kali-Linux-GUI-master/)
+You can preview a live demo [here](https://deathshadow333.github.io/Kali-Linux-GUI-master/)
 
 ## Technical details
 
