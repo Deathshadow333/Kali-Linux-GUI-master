@@ -1,4 +1,4 @@
-# Kali-Linux-GUI Template
+# Kali-Linux Template
 
 Customizable Kali Linux GUI website with a working customizable terminal without using any libraries :smiley:
 
